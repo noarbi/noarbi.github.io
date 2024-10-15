@@ -105,7 +105,7 @@ yat:
 #     text: Russian
 
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jeffreytse/jekyll-theme-yat"
+# remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # You can choose a theme color
 # Default theme colors as below:
