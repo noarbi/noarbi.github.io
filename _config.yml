@@ -42,7 +42,7 @@ theme: jekyll-theme-yat
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "No Arbitrage (c) 2023-{currentYear} {author}"
+copyright: "Copyright (c) No Arbitrage {author} (2023-{currentYear})."
 
 description: >- # this means to ignore newlines until "baseurl:"
   No Arbitrate is a personal blog created to share practical financial knowledge, 
