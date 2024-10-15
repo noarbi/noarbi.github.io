@@ -50,7 +50,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   It’s a space for exchanging ideas, making connections, and inspiring both readers and myself.
   Please note that none of the content on this site should be considered financial advice; 
   any decision-making should be evaluated based on specific cases.
-
+banner: "/assets/images/banners/home.jpeg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://no-arbitrage.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "/assets/images/brand/favicon.ico" # the favicon for your site
@@ -169,8 +169,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "No Arbitrage"
+#     subheading: "Joseph Cai's Blog for Money and Growth."
 #     banner: "Your image url"
 
 # Banner default settings
